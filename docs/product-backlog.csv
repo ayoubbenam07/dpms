@@ -1,157 +1,13 @@
-Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Labels,Labels,Labels,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Custom field (Development),Custom field (Issue color),Custom field (Rank),Sprint,Custom field (Start date),Custom field (Story point estimate),Custom field (Team),Custom field (Vulnerability),Parent,Parent key,Parent summary,Status category,Status category changed
-Design the login and roles screens,DPMS-79,10114,Task,Done,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,Done,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:24 PM,26/Nov/26 4:24 PM,,26/Nov/26 4:24 PM,21/Nov/26 12:00 AM,0,,,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,,,,,,,,,,0|i0000f:,DPMS Sprint 1,,,,,,,,Done,26/Nov/26 4:24 PM
-Design the patient record screen,DPMS-80,10115,Task,Done,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,Done,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:25 PM,26/Nov/26 4:26 PM,,26/Nov/26 4:26 PM,21/Nov/26 12:00 AM,0,,,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,,,,,,,,,,0|i0000l:,DPMS Sprint 1,,,,,,,,Done,26/Nov/26 4:26 PM
-Design the appointment screen,DPMS-81,10116,Task,Done,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,Done,Mohamed Ayoub Benamrouche,712020:e87dcf64-e599-425b-a778-2aa2bac189b7,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:25 PM,26/Nov/26 4:26 PM,,26/Nov/26 4:26 PM,21/Nov/26 12:00 AM,0,,,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,,,,,,,,,,0|i0000y:,DPMS Sprint 1,,,,,,,,Done,26/Nov/26 4:26 PM
-Design the payments and balance screen,DPMS-82,10117,Task,Done,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,Done,Mohamed Ayoub Benamrouche,712020:e87dcf64-e599-425b-a778-2aa2bac189b7,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:25 PM,26/Nov/26 4:26 PM,,26/Nov/26 4:26 PM,21/Nov/26 12:00 AM,0,,,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,,,,,,,,,,0|i00013:,DPMS Sprint 1,,,,,,,,Done,26/Nov/26 4:26 PM
-Design the dentist dashboard,DPMS-83,10118,Task,Done,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,Done,ahmed-sami.rihane,712020:9fd5544c-69ae-4e6c-8c67-3194832f590d,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:26 PM,26/Nov/26 4:26 PM,,26/Nov/26 4:26 PM,22/Nov/26 12:00 AM,0,,,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,,,,,,,,,,0|i0001f:,DPMS Sprint 1,,,,,,,,Done,26/Nov/26 4:26 PM
-Design the waiting queue screen,DPMS-84,10119,Task,Done,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,Done,Mohammed Ayoub Houadji,712020:d9ce53bc-634d-4e35-b2f2-1fb24ad68002,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:27 PM,26/Nov/26 4:27 PM,,26/Nov/26 4:27 PM,21/Nov/26 12:00 AM,0,,,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,,,,,,,,,,0|i0001j:,DPMS Sprint 1,,,,,,,,Done,26/Nov/26 4:27 PM
-Design the database model,DPMS-85,10120,Task,Done,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,Done,Abdallah Yacine,712020:76068d7a-02f1-4d6d-a68e-62815d367431,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:27 PM,26/Nov/26 4:27 PM,,26/Nov/26 4:27 PM,25/Nov/26 12:00 AM,0,,,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,,,,,,,,,,0|i0001u:,DPMS Sprint 1,,,,,,,,Done,26/Nov/26 4:27 PM
-"E8 Reliability, backup and performance",DPMS-8,10036,Epic,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E8-Reliability,Epic,Release1,"Power-cut safety, daily backup, two PCs sharing data on the LAN, speed. Traces to NFR-01, 02, 04 to 07.",,,,0,0,0,,0,0,0,,,,0|i00022:,,,,,,,,,To Do,
-Record a cash payment,DPMS-12,10037,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E4-Payments,Must,Release1,"As a receptionist, I want to record a cash instalment with an optional code note (for example V1 = 1,000 DA), so that every payment is kept.
-
-Acceptance criteria:
-- Payment stores amount, date, method (cash by default) and optional code note
-- Payment is saved immediately
-- Presets or a fast entry reduce typing
-
-Traceability: FR-21, BR-04
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i0002a:,,,,,,10047,DPMS-4,E4 Payments and balances,To Do,
-Open a record with the latest session first,DPMS-19,10038,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E2-PatientRecord,Must,Release1,"As the dentist, I want the latest session at the top and the full history below, so that I see the progress at a glance.
-
-Acceptance criteria:
-- Latest session is shown first
-- Older sessions follow in order
-- The full history is kept
-
-Traceability: FR-08
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i0002i:,,,,,,10045,DPMS-2,E2 Patient record and treatment follow-up,To Do,
-Show exact dates with elapsed time,DPMS-20,10039,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E2-PatientRecord,Must,Release1,"As the dentist, I want large, exact dates with the elapsed time, so that I can correct patients who say ""you did it 2 months ago"".
-
-Acceptance criteria:
-- Dates are large and readable
-- Elapsed time is shown (for example 14/03/2025, 19 months ago)
-
-Traceability: FR-09
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i0002q:,,,,,,10045,DPMS-2,E2 Patient record and treatment follow-up,To Do,
-Record the medical history of an at-risk patient,DPMS-23,10040,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E5-MedicalAlerts,Must,Release1,"As an informaticienne, I want to record the anamnese (condition, controlled or not, notes) of an at-risk patient, so that medical risks are known.
-
-Acceptance criteria:
-- Condition, controlled status and notes are stored
-- Entered by the informaticienne
-
-Traceability: FR-25
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i0002y:,,,,,,10071,DPMS-5,E5 Medical alerts,To Do,
-No data loss after a power cut,DPMS-29,10041,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E8-Reliability,Must,Release1,"As the dentist, I want committed data to survive a power cut, so that no payment or session is lost.
-
-Acceptance criteria:
-- Every payment and session entry is saved immediately (transactional storage)
-- After a forced power cut during entry, no committed data is lost
-
-Traceability: NFR-04
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i00036:,,,,,,10036,DPMS-8,"E8 Reliability, backup and performance",To Do,
-Mark appointments as morning or afternoon,DPMS-32,10042,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E3-Appointments,Release1,Should,"As the dentist, I want appointments marked morning or afternoon, so that complex work can be placed in the morning.
-
-Acceptance criteria:
-- Each appointment has a morning or afternoon block
-- The day list can be read by block
-
-Traceability: FR-17, BR-03
-Priority (MoSCoW): Should | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i0003e:,,,,,,10046,DPMS-3,E3 Appointments and emergencies,To Do,
-Call a stepped-out patient back in one click,DPMS-40,10043,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E7-Queue,Release2,Should,"As a receptionist, I want to notify a patient who stepped out when his turn is near and call him back in one click, so that he does not lose his place.
-
-Acceptance criteria:
-- Notification when 1 or 2 patients remain ahead (number to confirm with the dentist)
-- One click triggers the call-back
-
-Traceability: FR-35
-Priority (MoSCoW): Should | Release: 2
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i0003m:,,,,,,10072,DPMS-7,E7 Waiting queue and Oralia link,To Do,
-Fast visit logging,DPMS-41,10044,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E8-Reliability,Release1,Should,"As a nurse, I want to log a full visit (session note plus payment) in under 60 seconds with shortcuts and templates, so that the software saves time.
-
-Acceptance criteria:
-- Common actions complete in under 2 seconds
-- A full visit is logged in under 60 seconds in a timed test
-- Keyboard shortcuts and pre-filled templates exist
-
-Traceability: NFR-01, NFR-02
-Priority (MoSCoW): Should | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i0003u:,,,,,,10036,DPMS-8,"E8 Reliability, backup and performance",To Do,
-E2 Patient record and treatment follow-up,DPMS-2,10045,Epic,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E2-PatientRecord,Epic,Release1,"Patient record with latest session first, prominent dates, dated progress notes, treatment decision and treatment catalog. Traces to C2 (FR-07 to FR-12).",,,,0,0,0,,0,0,0,,,,0|i00042:,,,,,,,,,To Do,
-E3 Appointments and emergencies,DPMS-3,10046,Epic,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E3-Appointments,Epic,Release1,"Appointment dates set by the dentist, no double-booking, emergency insertion, day list. Traces to C3, C4 (FR-13 to FR-19).",,,,0,0,0,,0,0,0,,,,0|i0004a:,,,,,,,,,To Do,
-E4 Payments and balances,DPMS-4,10047,Epic,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E4-Payments,Epic,Release1,"Cash instalments, price, remaining balance, receptionist balance view. Traces to C5 (FR-20 to FR-24).",,,,0,0,0,,0,0,0,,,,0|i0004i:,,,,,,,,,To Do,
-E6 New-patient share and dentist indicators,DPMS-6,10048,Epic,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E6-KPIs,Epic,Release1,"New/existing flag, 40% target, patients per day, session duration, no-show rate. Traces to C7, C10 (FR-28, FR-29, FR-37 to FR-40).",,,,0,0,0,,0,0,0,,,,0|i0004q:,,,,,,,,,To Do,
-Insert an emergency patient in one action,DPMS-11,10049,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E3-Appointments,Must,Release1,"As a receptionist, I want to insert an emergency patient into today's list in one action, so that the dentist can take the emergency without breaking the schedule.
-
-Acceptance criteria:
-- One action adds the patient to the current day
-- Other appointments of the day are kept
-- The emergency is marked as such in the day list
-
-Traceability: FR-16, BR-02
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i0004y:,,,,,,10046,DPMS-3,E3 Appointments and emergencies,To Do,
-Set the treatment price and see the remaining balance,DPMS-13,10050,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E4-Payments,Must,Release1,"As the dentist, I want each treatment to have a price and a remaining balance, so that I know what a patient still owes.
-
-Acceptance criteria:
-- Balance = price minus the sum of payments
-- Example: price 40,000 DA, paid 20,000 + 4,000, balance 16,000 DA
-- Balance updates after each payment
-
-Traceability: FR-20, FR-22, BR-05
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i00056:,,,,,,10047,DPMS-4,E4 Payments and balances,To Do,
-Keep revenue totals private to the dentist,DPMS-15,10051,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E1-Accounts,Must,Release1,"As the dentist, I want only my account to see daily and monthly revenue totals, so that my financial data stays private.
-
-Acceptance criteria:
-- Informaticienne and receptionist cannot open any total in the interface
-- A direct server or database query from those roles is refused
-
-Traceability: FR-05, NFR-08, BR-06
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i0005e:,,,,,,10070,DPMS-1,"E1 Accounts, roles and financial privacy",To Do,
-Log in with an individual account,DPMS-16,10052,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E1-Accounts,Must,Release1,"As a staff member, I want to log in with my own account, so that my actions are traceable and my screens match my role.
-
-Acceptance criteria:
-- Each staff member has a personal login
-- Unauthenticated users cannot open any screen
-
-Traceability: FR-01
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i0005m:,,,,,,10070,DPMS-1,"E1 Accounts, roles and financial privacy",To Do,
-Register a patient,DPMS-18,10053,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E2-PatientRecord,Must,Release1,"As an informaticienne, I want to create a patient with surname, first name and telephone, so that the patient exists in the system.
-
-Acceptance criteria:
-- Surname, first name and telephone are mandatory
-- The patient can be found again by name or telephone
-
-Traceability: FR-07
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i0005u:,,,,,,10045,DPMS-2,E2 Patient record and treatment follow-up,To Do,
-Keep the current reception flow for patients without Oralia,DPMS-27,10054,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E7-Queue,Must,Release1,"As a receptionist, I want patients without the app to be served as today, so that nobody is excluded.
-
-Acceptance criteria:
-- The clinic queue works without any mobile app
-- Patients without a smartphone are told their place by the receptionist
-
-Traceability: FR-36
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i00062:,,,,,,10072,DPMS-7,E7 Waiting queue and Oralia link,To Do,
-Show when treatment must wait until the condition is controlled,DPMS-35,10055,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E5-MedicalAlerts,Release1,Should,"As the dentist, I want the system to show that a treatment should wait until a condition is controlled, so that I can postpone safely.
-
-Acceptance criteria:
-- A ""wait"" indicator is visible on the alert or treatment
-- The dentist can clear it when the condition is controlled
-
-Traceability: FR-27, BR-07
-Priority (MoSCoW): Should | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i0006a:,,,,,,10071,DPMS-5,E5 Medical alerts,To Do,
-Record the next appointment on the dentist's date,DPMS-9,10056,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E3-Appointments,Must,Release1,"As a receptionist, I want to enter the next appointment date that the dentist gives me, so that the patient's treatment continues as he decided.
+Issue Id,Issue Type,Summary,Description,Priority,Parent,Labels,Labels,Labels
+1,Epic,"E1 Accounts, roles and financial privacy","Individual accounts, four roles (dentist, informaticienne, receptionist, assistant) and revenue totals visible to the dentist only. Traces to C1 (FR-01 to FR-06, NFR-08, BR-06).",Medium,,Epic,Release1,E1-Accounts
+2,Epic,E2 Patient record and treatment follow-up,"Patient record with latest session first, prominent dates, dated progress notes, treatment decision and treatment catalog. Traces to C2 (FR-07 to FR-12).",Medium,,Epic,Release1,E2-PatientRecord
+3,Epic,E3 Appointments and emergencies,"Appointment dates set by the dentist, no double-booking, emergency insertion, day list. Traces to C3, C4 (FR-13 to FR-19).",Medium,,Epic,Release1,E3-Appointments
+4,Epic,E4 Payments and balances,"Cash instalments, price, remaining balance, receptionist balance view. Traces to C5 (FR-20 to FR-24).",Medium,,Epic,Release1,E4-Payments
+5,Epic,E5 Medical alerts,Anamnese for at-risk patients and a visible alert on the record. Traces to C6 (FR-25 to FR-27).,Medium,,Epic,Release1,E5-MedicalAlerts
+6,Epic,E6 New-patient share and dentist indicators,"New/existing flag, 40% target, patients per day, session duration, no-show rate. Traces to C7, C10 (FR-28, FR-29, FR-37 to FR-40).",Medium,,Epic,Release1,E6-KPIs
+7,Epic,E7 Waiting queue and Oralia link,"Clinic-side queue management and the minimal data sent for the Oralia mobile app. Traces to C8, C9 (FR-30 to FR-36, NFR-09).",Medium,,Epic,Release1,E7-Queue
+8,Epic,"E8 Reliability, backup and performance","Power-cut safety, daily backup, two PCs sharing data on the LAN, speed. Traces to NFR-01, 02, 04 to 07.",Medium,,Epic,Release1,E8-Reliability
+9,Story,Record the next appointment on the dentist's date,"As a receptionist, I want to enter the next appointment date that the dentist gives me, so that the patient's treatment continues as he decided.
 
 Acceptance criteria:
 - Appointment stores surname, first name, telephone and treatment progress
@@ -160,8 +16,8 @@ Acceptance criteria:
 
 Traceability: FR-13, FR-14, FR-19
 Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i0006i:,,,,,,10046,DPMS-3,E3 Appointments and emergencies,To Do,
-Prevent double-booking,DPMS-10,10057,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E3-Appointments,Must,Release1,"As a receptionist, I want the system to refuse a slot that is already taken, so that two patients are never booked at the same time.
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",High,3,Must,Release1,E3-Appointments
+10,Story,Prevent double-booking,"As a receptionist, I want the system to refuse a slot that is already taken, so that two patients are never booked at the same time.
 
 Acceptance criteria:
 - A taken slot is refused with a clear French message
@@ -169,223 +25,8 @@ Acceptance criteria:
 
 Traceability: FR-15, BR-02
 Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i0006q:,,,,,,10046,DPMS-3,E3 Appointments and emergencies,To Do,
-View an individual patient's balance,DPMS-14,10058,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E4-Payments,Must,Release1,"As a receptionist, I want to see one patient's balance, so that I can tell him what remains to pay, without seeing the clinic's totals.
-
-Acceptance criteria:
-- Receptionist sees the balance of one patient
-- Receptionist cannot open any revenue total
-
-Traceability: FR-23
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i0006y:,,,,,,10047,DPMS-4,E4 Payments and balances,To Do,
-Role-based access to screens and actions,DPMS-17,10059,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E1-Accounts,Must,Release1,"As the dentist, I want the four roles to have different rights, so that each nurse sees and edits only what her work requires.
-
-Acceptance criteria:
-- Four roles exist: dentist, informaticienne, receptionist, assistant
-- Informaticienne writes patients, notes, anamnese, treatment plans and sessions
-- Receptionist handles queue, appointments and payment entry
-
-Traceability: FR-02, FR-03, FR-04
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i00076:,,,,,,10070,DPMS-1,"E1 Accounts, roles and financial privacy",To Do,
-Record the dentist's treatment decision,DPMS-22,10060,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E2-PatientRecord,Must,Release1,"As an informaticienne, I want to record the treatment decided by the dentist (for example removable prosthesis instead of fixed, or extraction), so that the final decision is kept.
-
-Acceptance criteria:
-- Only the final decision is stored
-- The decision is shown on the treatment
-
-Traceability: FR-11
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i0007e:,,,,,,10045,DPMS-2,E2 Patient record and treatment follow-up,To Do,
-Show a visible alert banner on the patient record,DPMS-24,10061,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E5-MedicalAlerts,Must,Release1,"As the dentist, I want a visible alert when a patient has a medical alert, so that I never miss it.
-
-Acceptance criteria:
-- A red banner appears on the record when an alert exists
-- The banner shows the condition
-
-Traceability: FR-26
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i0007m:,,,,,,10071,DPMS-5,E5 Medical alerts,To Do,
-Check in a patient and advance the queue,DPMS-25,10062,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E7-Queue,Must,Release1,"As a receptionist, I want to check patients in and advance the queue from the clinic PC, so that the waiting room is managed.
-
-Acceptance criteria:
-- Receptionist checks a patient in
-- Receptionist moves the queue to the next patient
-- The queue order is visible on both PCs
-
-Traceability: FR-30
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i0007u:,,,,,,10072,DPMS-7,E7 Waiting queue and Oralia link,To Do,
-Record the phone number at check-in and mark a patient as stepped out,DPMS-26,10063,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E7-Queue,Must,Release2,"As a receptionist, I want to record the patient's phone number at check-in and mark him as stepped out, so that I can call him back.
-
-Acceptance criteria:
-- Phone number is recorded at check-in
-- A stepped-out status can be set and cleared
-
-Traceability: FR-34
-Priority (MoSCoW): Must | Release: 2
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i00082:,,,,,,10072,DPMS-7,E7 Waiting queue and Oralia link,To Do,
-Provide minimal queue data for Oralia,DPMS-28,10064,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E7-Queue,Must,Release2,"As a patient using Oralia, I want to see only the number of patients before me and my estimated time, so that I know when to come.
-
-Acceptance criteria:
-- Estimate = patients ahead x 15 to 20 minutes
-- Only appointment token, patients ahead, estimated wait and call flag leave the clinic
-- The clinic total and other patients' data are never sent
-
-Traceability: FR-31, FR-32, FR-33, NFR-09
-Priority (MoSCoW): Must | Release: 2
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i0008a:,,,,,,10072,DPMS-7,E7 Waiting queue and Oralia link,To Do,
-Automatic daily backup and restore procedure,DPMS-30,10065,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E8-Reliability,Must,Release1,"As the dentist, I want an automatic daily backup and a documented restore, so that I never lose the whole record.
-
-Acceptance criteria:
-- A backup runs daily without manual action
-- A written restore procedure exists and was tested once
-- Backup location to be confirmed with the dentist
-
-Traceability: NFR-05
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i0008i:,,,,,,10036,DPMS-8,"E8 Reliability, backup and performance",To Do,
-Show the day list with new patients identifiable,DPMS-33,10066,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E3-Appointments,Release1,Should,"As the dentist, I want new patients to be visible in the day list, so that I can take them first.
-
-Acceptance criteria:
-- New patients are marked in the day list
-
-Traceability: FR-18, BR-03
-Priority (MoSCoW): Should | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i0008q:,,,,,,10046,DPMS-3,E3 Appointments and emergencies,To Do,
-Let the dentist define what the assistant can see,DPMS-42,10067,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Low,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,Could,E1-Accounts,Release1,"As the dentist, I want to define the assistant's access (default read-only), so that her role matches what she does.
-
-Acceptance criteria:
-- Default is read-only
-- The dentist can change the rights
-
-Traceability: FR-06
-Priority (MoSCoW): Could | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i0008y:,,,,,,10070,DPMS-1,"E1 Accounts, roles and financial privacy",To Do,
-Flag each patient as new or existing,DPMS-36,10068,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E6-KPIs,Release1,Should,"As a receptionist, I want each patient flagged as new or existing, so that new patients can be counted and prioritised.
-
-Acceptance criteria:
-- A new patient is flagged automatically at creation
-- The flag changes to existing after the first completed visit (assumption to confirm)
-
-Traceability: FR-28
-Priority (MoSCoW): Should | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i00096:,,,,,,10048,DPMS-6,E6 New-patient share and dentist indicators,To Do,
-Dentist dashboard: patients per day and session duration,DPMS-38,10069,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E6-KPIs,Release1,Should,"As the dentist, I want to see patients treated per day and the average session duration, so that I can measure the time gained.
-
-Acceptance criteria:
-- Visible to the dentist only
-- Shows patients treated per day and average session duration
-
-Traceability: FR-37, FR-38
-Priority (MoSCoW): Should | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i0009e:,,,,,,10048,DPMS-6,E6 New-patient share and dentist indicators,To Do,
-"E1 Accounts, roles and financial privacy",DPMS-1,10070,Epic,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E1-Accounts,Epic,Release1,"Individual accounts, four roles (dentist, informaticienne, receptionist, assistant) and revenue totals visible to the dentist only. Traces to C1 (FR-01 to FR-06, NFR-08, BR-06).",,,,0,0,0,,0,0,0,,,,0|i0009m:,,,,,,,,,To Do,
-E5 Medical alerts,DPMS-5,10071,Epic,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E5-MedicalAlerts,Epic,Release1,Anamnese for at-risk patients and a visible alert on the record. Traces to C6 (FR-25 to FR-27).,,,,0,0,0,,0,0,0,,,,0|i0009u:,,,,,,,,,To Do,
-E7 Waiting queue and Oralia link,DPMS-7,10072,Epic,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E7-Queue,Epic,Release1,"Clinic-side queue management and the minimal data sent for the Oralia mobile app. Traces to C8, C9 (FR-30 to FR-36, NFR-09).",,,,0,0,0,,0,0,0,,,,0|i000a2:,,,,,,,,,To Do,
-Keep dated progress notes per treatment,DPMS-21,10073,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E2-PatientRecord,Must,Release1,"As an informaticienne, I want to add dated progress notes to a treatment, so that the dentist can follow the work done.
-
-Acceptance criteria:
-- Notes are a list, each with a date
-- Notes cannot be silently overwritten
-
-Traceability: FR-10
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000aa:,,,,,,10045,DPMS-2,E2 Patient record and treatment follow-up,To Do,
-Two PCs share the same data on the clinic network,DPMS-31,10074,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E8-Reliability,Must,Release1,"As a nurse, I want changes made on one PC to appear on the other within a few seconds, without internet, so that both PCs show the same information.
-
-Acceptance criteria:
-- Appointments, payments and queue changes appear on the other PC without manual refresh beyond a few seconds
-- Both PCs work without internet connection
-
-Traceability: NFR-06, NFR-07
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000ai:,,,,,,10036,DPMS-8,"E8 Reliability, backup and performance",To Do,
-Provide a catalog of treatment categories,DPMS-34,10075,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E2-PatientRecord,Release1,Should,"As an informaticienne, I want a catalog of treatment categories with usual session counts, so that I record work with the dentist's vocabulary.
-
-Acceptance criteria:
-- Categories: soins conservateurs, prothese fixe/amovible, implants, chirurgie, orthopedie dento-faciale, parodontologie, blanchiment, ordonnance
-- Usual session counts are shown as defaults
-- Spelling confirmed with the dentist
-
-Traceability: FR-12
-Priority (MoSCoW): Should | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000aq:,,,,,,10045,DPMS-2,E2 Patient record and treatment follow-up,To Do,
-Show the day's new-patient ratio on the booking screen,DPMS-37,10076,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E6-KPIs,Release1,Should,"As the dentist, I want the booking screen to show the day's new versus existing patients against the 40% target, so that I can fill my schedule with new patients.
-
-Acceptance criteria:
-- Example: 10 new out of 30 is displayed
-- The 40% target is visible next to the ratio
-
-Traceability: FR-29
-Priority (MoSCoW): Should | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000ay:,,,,,,10048,DPMS-6,E6 New-patient share and dentist indicators,To Do,
-Dentist dashboard: new-patient share and no-show rate,DPMS-39,10077,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,E6-KPIs,Release1,Should,"As the dentist, I want the new-patient share against 40% and the no-show rate against the current 25% estimate, so that I can judge whether the software brings more patients.
-
-Acceptance criteria:
-- Staff can mark an appointment as no-show (assumption: not listed in the SRS)
-- Dashboard shows both rates against their targets
-
-Traceability: FR-39, FR-40
-Priority (MoSCoW): Should | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000b6:,,,,,,10048,DPMS-6,E6 New-patient share and dentist indicators,To Do,
-Allow adding BaridiMob later,DPMS-43,10078,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Low,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 3:56 PM,26/Nov/26 3:56 PM,,,,0,Could,E4-Payments,Release1,"As the dentist, I want the payment model to allow a new method later, so that BaridiMob can be added without redesign.
-
-Acceptance criteria:
-- Payment method is a field with extendable values
-
-Traceability: FR-24
-Priority (MoSCoW): Could | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000be:,,,,,,10047,DPMS-4,E4 Payments and balances,To Do,
-Record the next appointment on the dentist's date,DPMS-44,10079,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E3-Appointments,Must,Release1,"As a receptionist, I want to enter the next appointment date that the dentist gives me, so that the patient's treatment continues as he decided.
-
-Acceptance criteria:
-- Appointment stores surname, first name, telephone and treatment progress
-- The date is typed by the receptionist; the system never suggests a date
-- Booking works for phone and on-site requests
-
-Traceability: FR-13, FR-14, FR-19
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000bm:,,,,,,,,,To Do,
-Prevent double-booking,DPMS-45,10080,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E3-Appointments,Must,Release1,"As a receptionist, I want the system to refuse a slot that is already taken, so that two patients are never booked at the same time.
-
-Acceptance criteria:
-- A taken slot is refused with a clear French message
-- An emergency insertion is the only allowed exception (see emergency story)
-
-Traceability: FR-15, BR-02
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000bu:,,,,,,,,,To Do,
-View an individual patient's balance,DPMS-49,10081,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E4-Payments,Must,Release1,"As a receptionist, I want to see one patient's balance, so that I can tell him what remains to pay, without seeing the clinic's totals.
-
-Acceptance criteria:
-- Receptionist sees the balance of one patient
-- Receptionist cannot open any revenue total
-
-Traceability: FR-23
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000c2:,,,,,,,,,To Do,
-Role-based access to screens and actions,DPMS-52,10082,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E1-Accounts,Must,Release1,"As the dentist, I want the four roles to have different rights, so that each nurse sees and edits only what her work requires.
-
-Acceptance criteria:
-- Four roles exist: dentist, informaticienne, receptionist, assistant
-- Informaticienne writes patients, notes, anamnese, treatment plans and sessions
-- Receptionist handles queue, appointments and payment entry
-
-Traceability: FR-02, FR-03, FR-04
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000ca:,,,,,,,,,To Do,
-Record the dentist's treatment decision,DPMS-57,10083,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E2-PatientRecord,Must,Release1,"As an informaticienne, I want to record the treatment decided by the dentist (for example removable prosthesis instead of fixed, or extraction), so that the final decision is kept.
-
-Acceptance criteria:
-- Only the final decision is stored
-- The decision is shown on the treatment
-
-Traceability: FR-11
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000ci:,,,,,,,,,To Do,
-Insert an emergency patient in one action,DPMS-46,10084,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E3-Appointments,Must,Release1,"As a receptionist, I want to insert an emergency patient into today's list in one action, so that the dentist can take the emergency without breaking the schedule.
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",High,3,Must,Release1,E3-Appointments
+11,Story,Insert an emergency patient in one action,"As a receptionist, I want to insert an emergency patient into today's list in one action, so that the dentist can take the emergency without breaking the schedule.
 
 Acceptance criteria:
 - One action adds the patient to the current day
@@ -394,63 +35,8 @@ Acceptance criteria:
 
 Traceability: FR-16, BR-02
 Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000cq:,,,,,,,,,To Do,
-Set the treatment price and see the remaining balance,DPMS-48,10085,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E4-Payments,Must,Release1,"As the dentist, I want each treatment to have a price and a remaining balance, so that I know what a patient still owes.
-
-Acceptance criteria:
-- Balance = price minus the sum of payments
-- Example: price 40,000 DA, paid 20,000 + 4,000, balance 16,000 DA
-- Balance updates after each payment
-
-Traceability: FR-20, FR-22, BR-05
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000cy:,,,,,,,,,To Do,
-Keep revenue totals private to the dentist,DPMS-50,10086,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E1-Accounts,Must,Release1,"As the dentist, I want only my account to see daily and monthly revenue totals, so that my financial data stays private.
-
-Acceptance criteria:
-- Informaticienne and receptionist cannot open any total in the interface
-- A direct server or database query from those roles is refused
-
-Traceability: FR-05, NFR-08, BR-06
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000d6:,,,,,,,,,To Do,
-Log in with an individual account,DPMS-51,10087,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E1-Accounts,Must,Release1,"As a staff member, I want to log in with my own account, so that my actions are traceable and my screens match my role.
-
-Acceptance criteria:
-- Each staff member has a personal login
-- Unauthenticated users cannot open any screen
-
-Traceability: FR-01
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000de:,,,,,,,,,To Do,
-Register a patient,DPMS-53,10088,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E2-PatientRecord,Must,Release1,"As an informaticienne, I want to create a patient with surname, first name and telephone, so that the patient exists in the system.
-
-Acceptance criteria:
-- Surname, first name and telephone are mandatory
-- The patient can be found again by name or telephone
-
-Traceability: FR-07
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000dm:,,,,,,,,,To Do,
-Keep the current reception flow for patients without Oralia,DPMS-62,10089,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E7-Queue,Must,Release1,"As a receptionist, I want patients without the app to be served as today, so that nobody is excluded.
-
-Acceptance criteria:
-- The clinic queue works without any mobile app
-- Patients without a smartphone are told their place by the receptionist
-
-Traceability: FR-36
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000du:,,,,,,,,,To Do,
-Show when treatment must wait until the condition is controlled,DPMS-70,10090,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E5-MedicalAlerts,Release1,Should,"As the dentist, I want the system to show that a treatment should wait until a condition is controlled, so that I can postpone safely.
-
-Acceptance criteria:
-- A ""wait"" indicator is visible on the alert or treatment
-- The dentist can clear it when the condition is controlled
-
-Traceability: FR-27, BR-07
-Priority (MoSCoW): Should | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000e2:,,,,,,,,,To Do,
-Record a cash payment,DPMS-47,10091,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E4-Payments,Must,Release1,"As a receptionist, I want to record a cash instalment with an optional code note (for example V1 = 1,000 DA), so that every payment is kept.
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",High,3,Must,Release1,E3-Appointments
+12,Story,Record a cash payment,"As a receptionist, I want to record a cash instalment with an optional code note (for example V1 = 1,000 DA), so that every payment is kept.
 
 Acceptance criteria:
 - Payment stores amount, date, method (cash by default) and optional code note
@@ -459,17 +45,64 @@ Acceptance criteria:
 
 Traceability: FR-21, BR-04
 Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000ea:,,,,,,,,,To Do,
-Flag each patient as new or existing,DPMS-71,10092,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E6-KPIs,Release1,Should,"As a receptionist, I want each patient flagged as new or existing, so that new patients can be counted and prioritised.
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",High,4,Must,Release1,E4-Payments
+13,Story,Set the treatment price and see the remaining balance,"As the dentist, I want each treatment to have a price and a remaining balance, so that I know what a patient still owes.
 
 Acceptance criteria:
-- A new patient is flagged automatically at creation
-- The flag changes to existing after the first completed visit (assumption to confirm)
+- Balance = price minus the sum of payments
+- Example: price 40,000 DA, paid 20,000 + 4,000, balance 16,000 DA
+- Balance updates after each payment
 
-Traceability: FR-28
-Priority (MoSCoW): Should | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000ei:,,,,,,,,,To Do,
-Open a record with the latest session first,DPMS-54,10093,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E2-PatientRecord,Must,Release1,"As the dentist, I want the latest session at the top and the full history below, so that I see the progress at a glance.
+Traceability: FR-20, FR-22, BR-05
+Priority (MoSCoW): Must | Release: 1
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",High,4,Must,Release1,E4-Payments
+14,Story,View an individual patient's balance,"As a receptionist, I want to see one patient's balance, so that I can tell him what remains to pay, without seeing the clinic's totals.
+
+Acceptance criteria:
+- Receptionist sees the balance of one patient
+- Receptionist cannot open any revenue total
+
+Traceability: FR-23
+Priority (MoSCoW): Must | Release: 1
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",High,4,Must,Release1,E4-Payments
+15,Story,Keep revenue totals private to the dentist,"As the dentist, I want only my account to see daily and monthly revenue totals, so that my financial data stays private.
+
+Acceptance criteria:
+- Informaticienne and receptionist cannot open any total in the interface
+- A direct server or database query from those roles is refused
+
+Traceability: FR-05, NFR-08, BR-06
+Priority (MoSCoW): Must | Release: 1
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",High,1,Must,Release1,E1-Accounts
+16,Story,Log in with an individual account,"As a staff member, I want to log in with my own account, so that my actions are traceable and my screens match my role.
+
+Acceptance criteria:
+- Each staff member has a personal login
+- Unauthenticated users cannot open any screen
+
+Traceability: FR-01
+Priority (MoSCoW): Must | Release: 1
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",High,1,Must,Release1,E1-Accounts
+17,Story,Role-based access to screens and actions,"As the dentist, I want the four roles to have different rights, so that each nurse sees and edits only what her work requires.
+
+Acceptance criteria:
+- Four roles exist: dentist, informaticienne, receptionist, assistant
+- Informaticienne writes patients, notes, anamnese, treatment plans and sessions
+- Receptionist handles queue, appointments and payment entry
+
+Traceability: FR-02, FR-03, FR-04
+Priority (MoSCoW): Must | Release: 1
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",High,1,Must,Release1,E1-Accounts
+18,Story,Register a patient,"As an informaticienne, I want to create a patient with surname, first name and telephone, so that the patient exists in the system.
+
+Acceptance criteria:
+- Surname, first name and telephone are mandatory
+- The patient can be found again by name or telephone
+
+Traceability: FR-07
+Priority (MoSCoW): Must | Release: 1
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",High,2,Must,Release1,E2-PatientRecord
+19,Story,Open a record with the latest session first,"As the dentist, I want the latest session at the top and the full history below, so that I see the progress at a glance.
 
 Acceptance criteria:
 - Latest session is shown first
@@ -478,17 +111,8 @@ Acceptance criteria:
 
 Traceability: FR-08
 Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000eq:,,,,,,,,,To Do,
-Dentist dashboard: patients per day and session duration,DPMS-73,10094,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E6-KPIs,Release1,Should,"As the dentist, I want to see patients treated per day and the average session duration, so that I can measure the time gained.
-
-Acceptance criteria:
-- Visible to the dentist only
-- Shows patients treated per day and average session duration
-
-Traceability: FR-37, FR-38
-Priority (MoSCoW): Should | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000ey:,,,,,,,,,To Do,
-Show exact dates with elapsed time,DPMS-55,10095,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E2-PatientRecord,Must,Release1,"As the dentist, I want large, exact dates with the elapsed time, so that I can correct patients who say ""you did it 2 months ago"".
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",High,2,Must,Release1,E2-PatientRecord
+20,Story,Show exact dates with elapsed time,"As the dentist, I want large, exact dates with the elapsed time, so that I can correct patients who say ""you did it 2 months ago"".
 
 Acceptance criteria:
 - Dates are large and readable
@@ -496,54 +120,8 @@ Acceptance criteria:
 
 Traceability: FR-09
 Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000f6:,,,,,,,,,To Do,
-Record the medical history of an at-risk patient,DPMS-58,10096,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E5-MedicalAlerts,Must,Release1,"As an informaticienne, I want to record the anamnese (condition, controlled or not, notes) of an at-risk patient, so that medical risks are known.
-
-Acceptance criteria:
-- Condition, controlled status and notes are stored
-- Entered by the informaticienne
-
-Traceability: FR-25
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000fe:,,,,,,,,,To Do,
-No data loss after a power cut,DPMS-64,10097,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E8-Reliability,Must,Release1,"As the dentist, I want committed data to survive a power cut, so that no payment or session is lost.
-
-Acceptance criteria:
-- Every payment and session entry is saved immediately (transactional storage)
-- After a forced power cut during entry, no committed data is lost
-
-Traceability: NFR-04
-Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000fm:,,,,,,,,,To Do,
-Mark appointments as morning or afternoon,DPMS-67,10098,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E3-Appointments,Release1,Should,"As the dentist, I want appointments marked morning or afternoon, so that complex work can be placed in the morning.
-
-Acceptance criteria:
-- Each appointment has a morning or afternoon block
-- The day list can be read by block
-
-Traceability: FR-17, BR-03
-Priority (MoSCoW): Should | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000fu:,,,,,,,,,To Do,
-Call a stepped-out patient back in one click,DPMS-75,10099,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E7-Queue,Release2,Should,"As a receptionist, I want to notify a patient who stepped out when his turn is near and call him back in one click, so that he does not lose his place.
-
-Acceptance criteria:
-- Notification when 1 or 2 patients remain ahead (number to confirm with the dentist)
-- One click triggers the call-back
-
-Traceability: FR-35
-Priority (MoSCoW): Should | Release: 2
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000g2:,,,,,,,,,To Do,
-Fast visit logging,DPMS-76,10100,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E8-Reliability,Release1,Should,"As a nurse, I want to log a full visit (session note plus payment) in under 60 seconds with shortcuts and templates, so that the software saves time.
-
-Acceptance criteria:
-- Common actions complete in under 2 seconds
-- A full visit is logged in under 60 seconds in a timed test
-- Keyboard shortcuts and pre-filled templates exist
-
-Traceability: NFR-01, NFR-02
-Priority (MoSCoW): Should | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000ga:,,,,,,,,,To Do,
-Keep dated progress notes per treatment,DPMS-56,10101,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E2-PatientRecord,Must,Release1,"As an informaticienne, I want to add dated progress notes to a treatment, so that the dentist can follow the work done.
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",High,2,Must,Release1,E2-PatientRecord
+21,Story,Keep dated progress notes per treatment,"As an informaticienne, I want to add dated progress notes to a treatment, so that the dentist can follow the work done.
 
 Acceptance criteria:
 - Notes are a list, each with a date
@@ -551,53 +129,26 @@ Acceptance criteria:
 
 Traceability: FR-10
 Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000gi:,,,,,,,,,To Do,
-Two PCs share the same data on the clinic network,DPMS-66,10102,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E8-Reliability,Must,Release1,"As a nurse, I want changes made on one PC to appear on the other within a few seconds, without internet, so that both PCs show the same information.
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",High,2,Must,Release1,E2-PatientRecord
+22,Story,Record the dentist's treatment decision,"As an informaticienne, I want to record the treatment decided by the dentist (for example removable prosthesis instead of fixed, or extraction), so that the final decision is kept.
 
 Acceptance criteria:
-- Appointments, payments and queue changes appear on the other PC without manual refresh beyond a few seconds
-- Both PCs work without internet connection
+- Only the final decision is stored
+- The decision is shown on the treatment
 
-Traceability: NFR-06, NFR-07
+Traceability: FR-11
 Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000gq:,,,,,,,,,To Do,
-Provide a catalog of treatment categories,DPMS-69,10103,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E2-PatientRecord,Release1,Should,"As an informaticienne, I want a catalog of treatment categories with usual session counts, so that I record work with the dentist's vocabulary.
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",High,2,Must,Release1,E2-PatientRecord
+23,Story,Record the medical history of an at-risk patient,"As an informaticienne, I want to record the anamnese (condition, controlled or not, notes) of an at-risk patient, so that medical risks are known.
 
 Acceptance criteria:
-- Categories: soins conservateurs, prothese fixe/amovible, implants, chirurgie, orthopedie dento-faciale, parodontologie, blanchiment, ordonnance
-- Usual session counts are shown as defaults
-- Spelling confirmed with the dentist
+- Condition, controlled status and notes are stored
+- Entered by the informaticienne
 
-Traceability: FR-12
-Priority (MoSCoW): Should | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000gy:,,,,,,,,,To Do,
-Show the day's new-patient ratio on the booking screen,DPMS-72,10104,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E6-KPIs,Release1,Should,"As the dentist, I want the booking screen to show the day's new versus existing patients against the 40% target, so that I can fill my schedule with new patients.
-
-Acceptance criteria:
-- Example: 10 new out of 30 is displayed
-- The 40% target is visible next to the ratio
-
-Traceability: FR-29
-Priority (MoSCoW): Should | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000h6:,,,,,,,,,To Do,
-Dentist dashboard: new-patient share and no-show rate,DPMS-74,10105,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E6-KPIs,Release1,Should,"As the dentist, I want the new-patient share against 40% and the no-show rate against the current 25% estimate, so that I can judge whether the software brings more patients.
-
-Acceptance criteria:
-- Staff can mark an appointment as no-show (assumption: not listed in the SRS)
-- Dashboard shows both rates against their targets
-
-Traceability: FR-39, FR-40
-Priority (MoSCoW): Should | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000he:,,,,,,,,,To Do,
-Allow adding BaridiMob later,DPMS-78,10106,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Low,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,26/Nov/26 6:37 PM,,,0,Could,E4-Payments,Release1,"As the dentist, I want the payment model to allow a new method later, so that BaridiMob can be added without redesign.
-
-Acceptance criteria:
-- Payment method is a field with extendable values
-
-Traceability: FR-24
-Priority (MoSCoW): Could | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000hm:,,,,,,,,,To Do,
-Show a visible alert banner on the patient record,DPMS-59,10107,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E5-MedicalAlerts,Must,Release1,"As the dentist, I want a visible alert when a patient has a medical alert, so that I never miss it.
+Traceability: FR-25
+Priority (MoSCoW): Must | Release: 1
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",High,5,Must,Release1,E5-MedicalAlerts
+24,Story,Show a visible alert banner on the patient record,"As the dentist, I want a visible alert when a patient has a medical alert, so that I never miss it.
 
 Acceptance criteria:
 - A red banner appears on the record when an alert exists
@@ -605,8 +156,8 @@ Acceptance criteria:
 
 Traceability: FR-26
 Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000hu:,,,,,,,,,To Do,
-Check in a patient and advance the queue,DPMS-60,10108,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E7-Queue,Must,Release1,"As a receptionist, I want to check patients in and advance the queue from the clinic PC, so that the waiting room is managed.
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",High,5,Must,Release1,E5-MedicalAlerts
+25,Story,Check in a patient and advance the queue,"As a receptionist, I want to check patients in and advance the queue from the clinic PC, so that the waiting room is managed.
 
 Acceptance criteria:
 - Receptionist checks a patient in
@@ -615,8 +166,8 @@ Acceptance criteria:
 
 Traceability: FR-30
 Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000i2:,,,,,,,,,To Do,
-Record the phone number at check-in and mark a patient as stepped out,DPMS-61,10109,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E7-Queue,Must,Release2,"As a receptionist, I want to record the patient's phone number at check-in and mark him as stepped out, so that I can call him back.
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",High,7,Must,Release1,E7-Queue
+26,Story,Record the phone number at check-in and mark a patient as stepped out,"As a receptionist, I want to record the patient's phone number at check-in and mark him as stepped out, so that I can call him back.
 
 Acceptance criteria:
 - Phone number is recorded at check-in
@@ -624,8 +175,17 @@ Acceptance criteria:
 
 Traceability: FR-34
 Priority (MoSCoW): Must | Release: 2
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000ia:,,,,,,,,,To Do,
-Provide minimal queue data for Oralia,DPMS-63,10110,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E7-Queue,Must,Release2,"As a patient using Oralia, I want to see only the number of patients before me and my estimated time, so that I know when to come.
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",High,7,Must,Release2,E7-Queue
+27,Story,Keep the current reception flow for patients without Oralia,"As a receptionist, I want patients without the app to be served as today, so that nobody is excluded.
+
+Acceptance criteria:
+- The clinic queue works without any mobile app
+- Patients without a smartphone are told their place by the receptionist
+
+Traceability: FR-36
+Priority (MoSCoW): Must | Release: 1
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",High,7,Must,Release1,E7-Queue
+28,Story,Provide minimal queue data for Oralia,"As a patient using Oralia, I want to see only the number of patients before me and my estimated time, so that I know when to come.
 
 Acceptance criteria:
 - Estimate = patients ahead x 15 to 20 minutes
@@ -634,8 +194,17 @@ Acceptance criteria:
 
 Traceability: FR-31, FR-32, FR-33, NFR-09
 Priority (MoSCoW): Must | Release: 2
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000ii:,,,,,,,,,To Do,
-Automatic daily backup and restore procedure,DPMS-65,10111,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,High,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E8-Reliability,Must,Release1,"As the dentist, I want an automatic daily backup and a documented restore, so that I never lose the whole record.
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",High,7,Must,Release2,E7-Queue
+29,Story,No data loss after a power cut,"As the dentist, I want committed data to survive a power cut, so that no payment or session is lost.
+
+Acceptance criteria:
+- Every payment and session entry is saved immediately (transactional storage)
+- After a forced power cut during entry, no committed data is lost
+
+Traceability: NFR-04
+Priority (MoSCoW): Must | Release: 1
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",High,8,Must,Release1,E8-Reliability
+30,Story,Automatic daily backup and restore procedure,"As the dentist, I want an automatic daily backup and a documented restore, so that I never lose the whole record.
 
 Acceptance criteria:
 - A backup runs daily without manual action
@@ -644,16 +213,108 @@ Acceptance criteria:
 
 Traceability: NFR-05
 Priority (MoSCoW): Must | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000iq:,,,,,,,,,To Do,
-Show the day list with new patients identifiable,DPMS-68,10112,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Medium,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,E3-Appointments,Release1,Should,"As the dentist, I want new patients to be visible in the day list, so that I can take them first.
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",High,8,Must,Release1,E8-Reliability
+31,Story,Two PCs share the same data on the clinic network,"As a nurse, I want changes made on one PC to appear on the other within a few seconds, without internet, so that both PCs show the same information.
+
+Acceptance criteria:
+- Appointments, payments and queue changes appear on the other PC without manual refresh beyond a few seconds
+- Both PCs work without internet connection
+
+Traceability: NFR-06, NFR-07
+Priority (MoSCoW): Must | Release: 1
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",High,8,Must,Release1,E8-Reliability
+32,Story,Mark appointments as morning or afternoon,"As the dentist, I want appointments marked morning or afternoon, so that complex work can be placed in the morning.
+
+Acceptance criteria:
+- Each appointment has a morning or afternoon block
+- The day list can be read by block
+
+Traceability: FR-17, BR-03
+Priority (MoSCoW): Should | Release: 1
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",Medium,3,Should,Release1,E3-Appointments
+33,Story,Show the day list with new patients identifiable,"As the dentist, I want new patients to be visible in the day list, so that I can take them first.
 
 Acceptance criteria:
 - New patients are marked in the day list
 
 Traceability: FR-18, BR-03
 Priority (MoSCoW): Should | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000iy:,,,,,,,,,To Do,
-Let the dentist define what the assistant can see,DPMS-77,10113,Story,To Do,DPMS,DPMS1,software,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,,Low,,,,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,Mohammed Amine,712020:89d7f2f0-7ec6-4237-98d1-c2e469ab1c06,26/Nov/26 4:08 PM,26/Nov/26 4:08 PM,,,,0,Could,E1-Accounts,Release1,"As the dentist, I want to define the assistant's access (default read-only), so that her role matches what she does.
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",Medium,3,Should,Release1,E3-Appointments
+34,Story,Provide a catalog of treatment categories,"As an informaticienne, I want a catalog of treatment categories with usual session counts, so that I record work with the dentist's vocabulary.
+
+Acceptance criteria:
+- Categories: soins conservateurs, prothese fixe/amovible, implants, chirurgie, orthopedie dento-faciale, parodontologie, blanchiment, ordonnance
+- Usual session counts are shown as defaults
+- Spelling confirmed with the dentist
+
+Traceability: FR-12
+Priority (MoSCoW): Should | Release: 1
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",Medium,2,Should,Release1,E2-PatientRecord
+35,Story,Show when treatment must wait until the condition is controlled,"As the dentist, I want the system to show that a treatment should wait until a condition is controlled, so that I can postpone safely.
+
+Acceptance criteria:
+- A ""wait"" indicator is visible on the alert or treatment
+- The dentist can clear it when the condition is controlled
+
+Traceability: FR-27, BR-07
+Priority (MoSCoW): Should | Release: 1
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",Medium,5,Should,Release1,E5-MedicalAlerts
+36,Story,Flag each patient as new or existing,"As a receptionist, I want each patient flagged as new or existing, so that new patients can be counted and prioritised.
+
+Acceptance criteria:
+- A new patient is flagged automatically at creation
+- The flag changes to existing after the first completed visit (assumption to confirm)
+
+Traceability: FR-28
+Priority (MoSCoW): Should | Release: 1
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",Medium,6,Should,Release1,E6-KPIs
+37,Story,Show the day's new-patient ratio on the booking screen,"As the dentist, I want the booking screen to show the day's new versus existing patients against the 40% target, so that I can fill my schedule with new patients.
+
+Acceptance criteria:
+- Example: 10 new out of 30 is displayed
+- The 40% target is visible next to the ratio
+
+Traceability: FR-29
+Priority (MoSCoW): Should | Release: 1
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",Medium,6,Should,Release1,E6-KPIs
+38,Story,Dentist dashboard: patients per day and session duration,"As the dentist, I want to see patients treated per day and the average session duration, so that I can measure the time gained.
+
+Acceptance criteria:
+- Visible to the dentist only
+- Shows patients treated per day and average session duration
+
+Traceability: FR-37, FR-38
+Priority (MoSCoW): Should | Release: 1
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",Medium,6,Should,Release1,E6-KPIs
+39,Story,Dentist dashboard: new-patient share and no-show rate,"As the dentist, I want the new-patient share against 40% and the no-show rate against the current 25% estimate, so that I can judge whether the software brings more patients.
+
+Acceptance criteria:
+- Staff can mark an appointment as no-show (assumption: not listed in the SRS)
+- Dashboard shows both rates against their targets
+
+Traceability: FR-39, FR-40
+Priority (MoSCoW): Should | Release: 1
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",Medium,6,Should,Release1,E6-KPIs
+40,Story,Call a stepped-out patient back in one click,"As a receptionist, I want to notify a patient who stepped out when his turn is near and call him back in one click, so that he does not lose his place.
+
+Acceptance criteria:
+- Notification when 1 or 2 patients remain ahead (number to confirm with the dentist)
+- One click triggers the call-back
+
+Traceability: FR-35
+Priority (MoSCoW): Should | Release: 2
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",Medium,7,Should,Release2,E7-Queue
+41,Story,Fast visit logging,"As a nurse, I want to log a full visit (session note plus payment) in under 60 seconds with shortcuts and templates, so that the software saves time.
+
+Acceptance criteria:
+- Common actions complete in under 2 seconds
+- A full visit is logged in under 60 seconds in a timed test
+- Keyboard shortcuts and pre-filled templates exist
+
+Traceability: NFR-01, NFR-02
+Priority (MoSCoW): Should | Release: 1
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",Medium,8,Should,Release1,E8-Reliability
+42,Story,Let the dentist define what the assistant can see,"As the dentist, I want to define the assistant's access (default read-only), so that her role matches what she does.
 
 Acceptance criteria:
 - Default is read-only
@@ -661,4 +322,12 @@ Acceptance criteria:
 
 Traceability: FR-06
 Priority (MoSCoW): Could | Release: 1
-Assumption: story text and criteria are a draft, to be confirmed with the dentist.",,,,0,0,0,,0,0,0,,,,0|i000j6:,,,,,,,,,To Do,
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",Low,1,Could,Release1,E1-Accounts
+43,Story,Allow adding BaridiMob later,"As the dentist, I want the payment model to allow a new method later, so that BaridiMob can be added without redesign.
+
+Acceptance criteria:
+- Payment method is a field with extendable values
+
+Traceability: FR-24
+Priority (MoSCoW): Could | Release: 1
+Assumption: story text and criteria are a draft, to be confirmed with the dentist.",Low,4,Could,Release1,E4-Payments
