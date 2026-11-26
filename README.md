@@ -43,9 +43,3 @@ Oralia is built to solve the clinic's primary operational and business challenge
 | **Patient** | Uses the Oralia Mobile App to track their live queue position, manage visits, and access care instructions. |
 
 ---
-
-## 🤝 Project Team
-
-* **Mohammed Amine BOUALLAGA** (Team Lead)
-* **Mohamed Ayoub BENAMROUCHE**
-* **Mohammed Ayoub HOUADJI**
